@@ -3,57 +3,68 @@
     {
       "id": 1,
       "title": "Shirt",
-      "image": "https://raw.githubusercontent.com/christophpaster/sr-testapi/master/product-1.png"
+      "image": "https://raw.githubusercontent.com/christophpaster/sr-testapi/master/product-1.png",
+      "price": "€ 19,99"
     },
     {
       "id": 2,
       "title": "Shirt",
-      "image": "https://raw.githubusercontent.com/christophpaster/sr-testapi/master/product-2.png"
+      "image": "https://raw.githubusercontent.com/christophpaster/sr-testapi/master/product-2.png",
+      "price": "€ 19,99"
     },
     {
       "id": 3,
       "title": "Jersey",
-      "image": "https://raw.githubusercontent.com/christophpaster/sr-testapi/master/product-3.png"
+      "image": "https://raw.githubusercontent.com/christophpaster/sr-testapi/master/product-3.png",
+      "price": "€ 19,99"
     },
     {
       "id": 4,
       "title": "Jersey",
-      "image": "https://raw.githubusercontent.com/christophpaster/sr-testapi/master/product-4.png"
+      "image": "https://raw.githubusercontent.com/christophpaster/sr-testapi/master/product-4.png",
+      "price": "€ 19,99"
     },
     {
       "id": 5,
       "title": "Hat",
-      "image": "https://raw.githubusercontent.com/christophpaster/sr-testapi/master/product-5.png"
+      "image": "https://raw.githubusercontent.com/christophpaster/sr-testapi/master/product-5.png",
+      "price": "€ 19,99"
     },
     {
       "id": 6,
       "title": "Blouse",
-      "image": "https://raw.githubusercontent.com/christophpaster/sr-testapi/master/product-6.png"
+      "image": "https://raw.githubusercontent.com/christophpaster/sr-testapi/master/product-6.png",
+      "price": "€ 19,99"
     },
     {
       "id": 7,
       "title": "Blouse",
-      "image": "https://raw.githubusercontent.com/christophpaster/sr-testapi/master/product-7.png"
+      "image": "https://raw.githubusercontent.com/christophpaster/sr-testapi/master/product-7.png",
+      "price": "€ 19,99"
     },
     {
       "id": 8,
       "title": "Blouse",
-      "image": "https://raw.githubusercontent.com/christophpaster/sr-testapi/master/product-8.png"
+      "image": "https://raw.githubusercontent.com/christophpaster/sr-testapi/master/product-8.png",
+      "price": "€ 19,99"
     },
     {
       "id": 9,
       "title": "Dress",
-      "image": "https://raw.githubusercontent.com/christophpaster/sr-testapi/master/product-9.png"
+      "image": "https://raw.githubusercontent.com/christophpaster/sr-testapi/master/product-9.png",
+      "price": "€ 19,99"
     },
     {
       "id": 10,
       "title": "Dress",
-      "image": "https://raw.githubusercontent.com/christophpaster/sr-testapi/master/product-10.png"
+      "image": "https://raw.githubusercontent.com/christophpaster/sr-testapi/master/product-10.png",
+      "price": "€ 19,99"
     },
     {
       "id": 11,
       "title": "Dress",
-      "image": "https://raw.githubusercontent.com/christophpaster/sr-testapi/master/product-11.png"
+      "image": "https://raw.githubusercontent.com/christophpaster/sr-testapi/master/product-11.png",
+      "price": "€ 19,99"
     }
   ]
 }
