@@ -2,25 +2,25 @@
   "results": [
     {
       "id": 1,
-      "title": "Shirt",
+      "title": "T-Shirt Essentials Collection",
       "image": "https://raw.githubusercontent.com/christophpaster/sr-testapi/master/product-1.png",
       "price": "€ 19,99"
     },
     {
       "id": 2,
-      "title": "Shirt",
+      "title": "T-Shirt Essentials Collection",",
       "image": "https://raw.githubusercontent.com/christophpaster/sr-testapi/master/product-2.png",
       "price": "€ 19,99"
     },
     {
       "id": 3,
-      "title": "Jersey",
+      "title": "Biking-Jersey Summer-Edition",
       "image": "https://raw.githubusercontent.com/christophpaster/sr-testapi/master/product-3.png",
       "price": "€ 19,99"
     },
     {
       "id": 4,
-      "title": "Jersey",
+      "title": "Jersey Fall-Special-Edition",
       "image": "https://raw.githubusercontent.com/christophpaster/sr-testapi/master/product-4.png",
       "price": "€ 19,99"
     },
