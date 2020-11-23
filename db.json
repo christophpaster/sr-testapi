@@ -4,67 +4,78 @@
       "id": 1,
       "title": "T-Shirt Essentials Collection",
       "image": "https://raw.githubusercontent.com/christophpaster/sr-testapi/master/product-1.png",
-      "price": "€ 19,99"
+      "price": "€ 19,99",
+      "color": "#ffffff"
     },
     {
       "id": 2,
       "title": "T-Shirt Essentials Collection",
       "image": "https://raw.githubusercontent.com/christophpaster/sr-testapi/master/product-2.png",
-      "price": "€ 19,99"
+      "price": "€ 19,99",
+      "color": "#ffffff"
     },
     {
       "id": 3,
       "title": "Biking-Jersey Summer-Edition",
       "image": "https://raw.githubusercontent.com/christophpaster/sr-testapi/master/product-3.png",
-      "price": "€ 19,99"
+      "price": "€ 19,99",
+      "color": "#ffffff"
     },
     {
       "id": 4,
       "title": "Jersey Fall-Special-Edition",
       "image": "https://raw.githubusercontent.com/christophpaster/sr-testapi/master/product-4.png",
-      "price": "€ 19,99"
+      "price": "€ 19,99",
+      "color": "#ffffff"
     },
     {
       "id": 5,
       "title": "Hat",
       "image": "https://raw.githubusercontent.com/christophpaster/sr-testapi/master/product-5.png",
-      "price": "€ 19,99"
+      "price": "€ 19,99",
+      "color": "#ffffff"
     },
     {
       "id": 6,
       "title": "Blouse",
       "image": "https://raw.githubusercontent.com/christophpaster/sr-testapi/master/product-6.png",
-      "price": "€ 19,99"
+      "price": "€ 19,99",
+      "color": "#ffffff"
     },
     {
       "id": 7,
       "title": "Blouse",
       "image": "https://raw.githubusercontent.com/christophpaster/sr-testapi/master/product-7.png",
-      "price": "€ 19,99"
+      "price": "€ 19,99",
+      "color": "#ffffff"
     },
     {
       "id": 8,
       "title": "Blouse",
       "image": "https://raw.githubusercontent.com/christophpaster/sr-testapi/master/product-8.png",
-      "price": "€ 19,99"
+      "price": "€ 19,99",
+      "color": "#ffffff"
     },
     {
       "id": 9,
       "title": "Dress",
       "image": "https://raw.githubusercontent.com/christophpaster/sr-testapi/master/product-9.png",
-      "price": "€ 19,99"
+      "price": "€ 19,99",
+      "color": "#ffffff"
     },
     {
       "id": 10,
       "title": "Dress",
       "image": "https://raw.githubusercontent.com/christophpaster/sr-testapi/master/product-10.png",
-      "price": "€ 19,99"
+      "price": "€ 19,99",
+      "color": "#ffffff"
     },
     {
       "id": 11,
       "title": "Dress",
       "image": "https://raw.githubusercontent.com/christophpaster/sr-testapi/master/product-11.png",
-      "price": "€ 19,99"
+      "price": "€ 19,99",
+      "color": "#ffffff"
     }
   ]
 }
